@@ -16,7 +16,6 @@ A React Native application for managing and showcasing your favorite places. Thi
 - **[react-native-screens](https://reactnavigation.org/docs/getting-started#installing-dependencies-into-an-expo-managed-project)**: Installing dependencies into an Expo managed project.
 - **[react-native-safe-area-context](https://reactnavigation.org/docs/getting-started#installing-dependencies-into-an-expo-managed-project/)**: Installing dependencies into an Expo managed project.
 - **[@react-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator#installation)**: Stack Navigator provides a way for your app to transition between screens where each new screen is placed on top of a stack.
-- **[@react-navigation/bottom-tabs](https://reactnavigation.org/docs/bottom-tab-navigator)**:A simple tab bar on the bottom of the screen that lets you switch between different routes.
 
 
 ## Installation and Setup Instructions 
